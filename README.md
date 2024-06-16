@@ -19,5 +19,5 @@ A brief description of what this pHey Connections Introducing My latest Project 
 * Details Grid: Dive into detailed car sales information.
 
 
-This dashboard promises to elevate your sales performance tracking to new heights! Stay tuned for updates on its release. 🚀 hashtag#CarSalesDashboard hashtag#PowerBI hashtag#DataAnalytics
+This dashboard promises to elevate your sales performance tracking to new heights! Stay tuned for updates on its release
 

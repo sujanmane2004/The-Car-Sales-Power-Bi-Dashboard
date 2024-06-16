@@ -18,8 +18,6 @@ A brief description of what this pHey Connections Introducing My latest Project 
 * Company-Wise Sales Trend: Track sales trends for each company.
 * Details Grid: Dive into detailed car sales information.
 
-You can see project also on my portfolio 
-https://lnkd.in/gPQfCuGD
 
 This dashboard promises to elevate your sales performance tracking to new heights! Stay tuned for updates on its release. 🚀 hashtag#CarSalesDashboard hashtag#PowerBI hashtag#DataAnalytics
 
